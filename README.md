@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0503-next-greater-element-ii](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/HemantDhaker12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
